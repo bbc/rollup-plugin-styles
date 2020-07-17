@@ -1,0 +1,22 @@
+.style_module {
+  color: #1F4F7F;
+}
+
+.style_module2 {
+}
+
+@media screen and (min-width: 900px) {
+  .composed_composition {
+    background-color: aqua;
+  }
+}
+
+.composed_composition {
+  background-color: #BF4040;
+}
+
+.composition2_compositioned {
+  width: 30%;
+}
+
+/*# sourceMappingURL=index-4aaf5d80.css.map */

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../code-splitting/partial.css","../../../../code-splitting/first.scss"],"names":[],"mappings":"AAAA;EACE,gBAAgB;AAClB;ACAA;EACE,UAAU,EAAA","file":"first.scss-44b7acc6.css","sourcesContent":[".partial {\n  color: rosybrown;\n}\n","@import \"./partial.css\";\n\n.first {\n  color: red;\n}\n"]}

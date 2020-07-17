@@ -1,0 +1,18 @@
+html {
+  --color-primary: green;
+}
+
+.style_primary {
+  color: green;
+  color: var(--color-primary);
+}
+
+.shared_test {
+  content: "test";
+}
+
+.foo_foo {
+}
+
+.bar_bar {
+}

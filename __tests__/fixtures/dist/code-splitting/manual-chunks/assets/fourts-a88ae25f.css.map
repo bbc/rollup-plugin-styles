@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../code-splitting/fourth.scss","../../../../code-splitting/fourthtwo.scss"],"names":[],"mappings":"AAAA;EACE,cAAc,EAAA;;ACDhB;EACE,eAAe,EAAA","file":"fourts-a88ae25f.css","sourcesContent":[".fourth {\n  color: magenta;\n}\n",".fourthtwo {\n  color: honeydew;\n}\n"]}

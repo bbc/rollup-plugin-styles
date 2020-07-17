@@ -1,0 +1,29 @@
+.subfoo {
+  background-image: url("/pubpath/bg-bd25d3fd.png");
+  background-image: url("/pubpath/bg.testing.regex-59831cbf.png");
+  background-image: url("./nonexistant");
+}
+
+.foo {
+  background-image: url("/pubpath/bg-bd25d3fd.png"), url("/pubpath/bg.testing.regex-353515ad.png"), url("/pubpath/bg.testing.regex-353515ad.png");
+}
+
+.foo2 {
+  background-image: -webkit-image-set(
+    "/pubpath/cat-ef753cf2.png" 1x,
+    url("/pubpath/cat-2x-7a783e8c.png") 2x,
+    url(/pubpath/cat-print-e4d012b8.png) 600dpi
+  );
+  background-image: image-set("/pubpath/cat-ef753cf2.png" 1x);
+}
+.bar {
+  background-image: url("/pubpath/bg-cc57d19a.png");
+  background-image: url("/pubpath/bg.testing.regex-e13f1639.png"); }
+
+.bar2 {
+  color: magenta;
+  background-image: url("https://via.placeholder.com/1920x1080"); }
+
+.ignore-data-uri {
+  background-image: url(/pubpath/bg-086af782.png);
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkBAMAAACCzIhnAAAAG1BMVEXMzMyWlpacnJy+vr6jo6PFxcW3t7eqqqqxsbHbm8QuAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAiklEQVRYhe3QMQ6EIBAF0C+GSInF9mYTs+1ewRsQbmBlayysKefYO2asXbbYxvxHQj6ECQMAEREREf2NQ/fCtp5Zky6vtRMkSJEzhyISynWJnzH6Z8oQlzS7lEc/fLmmQUSvc16OrCPqRl1JePxQYo1ZSWVj9nxrrOb5esw+eXdvzTWfTERERHRXH4tWFZGswQ2yAAAAAElFTkSuQmCC"); }
