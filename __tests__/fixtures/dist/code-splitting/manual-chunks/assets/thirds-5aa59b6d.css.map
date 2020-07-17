@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../code-splitting/third.scss","../../../../code-splitting/thirdtwo.scss"],"names":[],"mappings":"AAAA;EACE,aAAa,EAAA;;ACDf;EACE,cAAc,EAAA","file":"thirds-5aa59b6d.css","sourcesContent":[".third {\n  color: maroon;\n}\n",".thirdtwo {\n  color: hotpink;\n}\n"]}

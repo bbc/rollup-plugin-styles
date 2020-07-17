@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../code-splitting/nondynamic.scss","../../../../code-splitting/nondynamic2.scss"],"names":[],"mappings":"AAAA;EACE,kBAAkB,EAAA;;ACDpB;EACE,eAAe,EAAA","file":"nondynamic-7bda63b1.css","sourcesContent":[".nondynamic {\n  color: deepskyblue;\n}\n",".nondynamic2 {\n  color: deeppink;\n}\n"]}

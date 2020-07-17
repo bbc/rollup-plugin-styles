@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../code-splitting/third.scss","../../../../code-splitting/fourth.scss"],"names":[],"mappings":"AAAA;EACE,aAAa,EAAA;;ACDf;EACE,cAAc,EAAA","file":"index-fef2e800.css","sourcesContent":[".third {\n  color: maroon;\n}\n",".fourth {\n  color: magenta;\n}\n"]}
